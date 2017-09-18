@@ -1,0 +1,12 @@
+{
+  "name": "set-font-size-onresize",
+  "version": "1.0.0",
+  "description": "Set fontSize onresize. you can use window.setFontSize_onresize to use it, details is in the source code.",
+  "main": "setFontSize_onresize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "doc2git",
+  "license": "ISC"
+}
